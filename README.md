@@ -3,12 +3,12 @@
 </p>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%246SEA47&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Aaryan+%F0%9F%91%8B;Engineering+Student;Tech+Enthusiast" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%246SEA47&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Aaryan+Kumar+%F0%9F%91%8B;Engineering+Student;Tech+Enthusiast" alt="Headline" />
 </div>
 
 <p align="center">
     <br>Visitor count<br>
-    <img src="https://profile-counter.glitch.me/Aaryan0323/count.svg" />
+    <img src="https://profile-counter.glitch.me/Aaryan2705/count.svg" />
 </p>
 
 <div align="center">
@@ -62,15 +62,15 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aaryan0323&show_icons=true&theme=radical" alt="Aaryan's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Aaryan2705&show_icons=true&theme=radical" alt="Rajan's GitHub Stats"/>
 </div>
 
 <div align="center">
-    <img src="https://leetcard.jacoblin.cool/Aaryankumar_2021?theme=dark&font=Jacques%20Francois%20Shadow" alt="LeetCode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/Aaryan2705?theme=dark&font=Jacques%20Francois%20Shadow" alt="LeetCode Stats"/>
 </div>
 
 <div align="center">
-    <a href="https://www.geeksforgeeks.org/user/Aaryankumsafq/" target="_blank" rel="noreferrer">
+    <a href="https://www.geeksforgeeks.org/user/rajankumsafq/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Profile" />
     </a>
 </div>
