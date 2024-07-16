@@ -8,7 +8,8 @@
 
 <p align="center">
     <br>Visitor count<br>
-    <img src="https://profile-counter.glitch.me/Sumit4509/count.svg" />
+    <img src="https://profile-counter.glitch.me/Aaryan2705
+/count.svg" />
 </p>
 
 <div align="center">
@@ -62,7 +63,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sumit4509&show_icons=true&theme=radical" alt="Aaryan's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Aaryan2705
+&show_icons=true&theme=radical" alt="Aaryan's GitHub Stats"/>
 </div>
 
 <div align="center">
