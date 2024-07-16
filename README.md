@@ -62,7 +62,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aaryan2705&show_icons=true&theme=radical" alt="Rajan's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Aaryan2705&show_icons=true&theme=radical" alt="Aaryan's GitHub Stats"/>
 </div>
 
 <div align="center">
@@ -70,7 +70,7 @@
 </div>
 
 <div align="center">
-    <a href="https://www.geeksforgeeks.org/user/rajankumsafq/" target="_blank" rel="noreferrer">
+    <a href="https://www.geeksforgeeks.org/user/aaryankuarep/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Profile" />
     </a>
 </div>
